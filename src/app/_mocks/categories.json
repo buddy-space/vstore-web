@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "name": "Fresh Produce"
+  },
+  {
+    "id": "002",
+    "name": "Dairy Products"
+  },
+  {
+    "id": "003",
+    "name": "Meat & Poultry"
+  },
+  {
+    "id": "004",
+    "name": "Bakery Items"
+  },
+  {
+    "id": "005",
+    "name": "Canned Goods"
+  },
+  {
+    "id": "006",
+    "name": "Snacks & Beverages"
+  },
+  {
+    "id": "007",
+    "name": "Frozen Foods"
+  },
+  {
+    "id": "008",
+    "name": "Pasta & Grains"
+  },
+  {
+    "id": "009",
+    "name": "Cleaning Supplies"
+  },
+  {
+    "id": "010",
+    "name": "Health & Wellness"
+  }
+]

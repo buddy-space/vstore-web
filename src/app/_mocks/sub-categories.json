@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "categoryId": "001",
+    "name": "Vitamins & Supplements"
+  },
+  {
+    "id": "002",
+    "categoryId": "001",
+    "name": "Personal Care"
+  },
+  {
+    "id": "003",
+    "categoryId": "001",
+    "name": "Over-the-Counter Medications"
+  },
+  {
+    "id": "004",
+    "categoryId": "001",
+    "name": "Fitness & Exercise"
+  },
+  {
+    "id": "005",
+    "categoryId": "001",
+    "name": "First Aid"
+  },
+  {
+    "id": "006",
+    "categoryId": "001",
+    "name": "Health Foods"
+  },
+  {
+    "id": "007",
+    "categoryId": "001",
+    "name": "Herbal Remedies"
+  },
+  {
+    "id": "008",
+    "categoryId": "001",
+    "name": "Oral Care"
+  },
+  {
+    "id": "009",
+    "categoryId": "001",
+    "name": "Skin Care"
+  },
+  {
+    "id": "010",
+    "categoryId": "001",
+    "name": "Mental Wellness"
+  }
+]
